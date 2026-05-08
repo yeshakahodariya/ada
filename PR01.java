@@ -1,8 +1,3 @@
-/*
-AIM:
-To implement Selection Sort on a sufficiently large dataset and
-measure its execution time to analyze its performance.
-*/
 
 import java.util.*;
 
